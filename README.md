@@ -1,42 +1,30 @@
-Executive Retail Sales Analytics Dashboard
-🚀 Project Overview
-This interactive Tableau dashboard provides a data-driven approach to analyzing retail sales performance across different regions, categories, and time periods. Designed for business executives and decision-makers, it enables tracking of key sales, profit, and discount trends, offering actionable insights for improving business strategies.
+# 📊 Executive Retail Sales Analytics - Tableau Dashboard  
 
-📊 Key Insights & Analysis
-📌 Performance Metrics (KPIs)
-📈 YTD Sales: $1.75M
-💰 YTD Profit: $236K
-📦 Total Quantity Sold: 28K units
-🎯 YTD Average Discount: 15.35%
-🌍 Sales vs Goal by Region
-✅ West region outperformed sales goals with a positive variance of +85,855.
-❌ East region underperformed, missing its goal by -24,511.
-🏅 Central & South regions showed balanced performance, with small variances.
-🏷 Sales & Profit Breakdown by Category & Sub-Category
-📌 Top Performers:
-Furniture: Chairs ($286K) led in sales.
-Office Supplies: Storage ($158K) and Binders ($142K) performed well.
-Technology: Phones ($260K) were the top-selling tech product.
-📉 Underperformers:
-Tables in the Furniture category had low sales & profit margins.
-🌎 Geographical Performance (Map View)
-Green bubbles: High sales & profitable regions.
-Red bubbles: Low-performing cities requiring strategic intervention.
-📅 Sales & Profit Trends Over Time
-Seasonality: Sales peaked around August 2018, indicating strong demand during this period.
-Profitability Trends: Sales spikes aligned with profit growth, suggesting successful marketing campaigns or seasonal demand surges.
-💡 Business Recommendations
-Expand marketing efforts in underperforming regions (East) to boost sales.
-Leverage high-performing categories (Phones & Chairs) by optimizing stock availability and promotions.
-Capitalize on peak months (August) with discounts or special deals.
-Monitor discounting strategies to ensure profitability isn’t negatively impacted.
-🛠 Technology Stack
-📊 Data Visualization: Tableau
-📂 Data Source: Retail sales dataset
-📈 Metrics Tracked: Sales, Profit, Discounts, Quantity Sold
-📌 How to Use the Dashboard
-Open the Tableau workbook (.twbx).
-Interact with filters (Region, Category, Date, etc.) to explore data.
-Analyze KPIs and trends to derive business insights.
-🚀 Contributions & Feedback
-This project is open for collaboration! Feel free to fork the repo, suggest improvements, or report any issues.
+## Overview  
+This **Tableau dashboard** provides a **comprehensive analysis** of retail sales performance for **Atlantic Superstore**. It helps business stakeholders track key metrics, analyze regional and category-wise performance, and monitor trends over time.  
+
+## 🔹 Key Features  
+✅ **KPI Summary**: Displays **YTD Sales, Profit, Quantity, and Average Discount**.  
+✅ **Sales vs Goal by Region**: Bar chart comparing sales performance across regions.  
+✅ **Category & Sub-Category Analysis**: Treemap visualization of sales and profit distribution.  
+✅ **Geospatial Insights**: Interactive map showing sales performance across **U.S. cities**.  
+✅ **Monthly Sales & Profit Trends**: Time-series analysis of revenue and profitability.  
+
+## 📍 Dashboard Visuals  
+- **Sales vs. Goal by Region**: Highlights sales target achievements and shortfalls.  
+- **Category & Sub-Category Breakdown**: Provides insights into high-performing product categories.  
+- **Geographical Distribution**: Identifies top-performing locations.  
+- **Time-Series Trends**: Tracks seasonal and monthly variations in sales and profit.  
+
+## 📅 Data Source  
+- **Time Period**: January 2017 – December 2018  
+- **Retail Data**: Sales, Profit, Order Quantity, Discounts  
+
+## 🚀 Usage  
+1. Open the Tableau dashboard.  
+2. Interact with filters for **Region, Category, Segment, and City**.  
+3. Explore sales trends, profit margins, and regional performance insights.  
+
+## 📌 Technologies Used  
+- **Tableau** for data visualization  
+- **OpenStreetMap** for geospatial mapping  
