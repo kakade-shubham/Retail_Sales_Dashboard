@@ -1,6 +1,6 @@
 # 📊 Executive Retail Sales Analytics - Tableau Dashboard  
 
-## Overview  
+## Project Overview  
 This **Tableau dashboard** provides a **comprehensive analysis** of retail sales performance for **Atlantic Superstore**. It helps business stakeholders track key metrics, analyze regional and category-wise performance, and monitor trends over time.  
 
 ## 🔹 Key Features  
